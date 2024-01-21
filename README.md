@@ -14,3 +14,5 @@
 
 #Challenges
 	With 2 people being involed time-management was definately the biggest challenge to make sure each part was completed by the respective person so that the next steps were not hindered. Finding data that would interest both of us was the next big task.
+
+ # If we had more time
