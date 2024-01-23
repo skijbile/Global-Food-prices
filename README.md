@@ -12,6 +12,7 @@
 
 
 #Results
+
 	Overview Dashboard- gives us a quick insight into the data set, the countries it covers , how many countries and commodities are available and the types of markets these commodities sell in.
 	
 	Change in Prices Dashboard- this gives us the trend in the prices over the years for a selected commodity and allows us to select the country where the commodity is available. We can see the percentage rise/fall in cost of the price in comparision to the previous year. This could be possibly used to compare the inflation rate with the current time.
