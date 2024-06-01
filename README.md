@@ -1,5 +1,5 @@
-# Midterm-Project Objective
- 	
+# Global Food Prices- Collaborative project 
+
 	To work with a partner and learn how to strategize and find techniques that help us work as a team, allowing us to understand the challenges and upsides of working in a team setting. Improve on communication and management skills to submit and complete everything in a timely manner. Finally, work with concepts previously learnt to further understand and improve, with the goal of strengthening the foundation of these skills.
 
 #Process
