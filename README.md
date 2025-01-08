@@ -14,6 +14,7 @@
 #Results
 
 	Overview Dashboard- gives us a quick insight into the data set, the countries it covers , how many countries and commodities are available and the types of markets these commodities sell in.
+ 
 	
 	Change in Prices Dashboard- this gives us the trend in the prices over the years for a selected commodity and allows us to select the country where the commodity is available. We can see the percentage rise/fall in cost of the price in comparision to the previous year. This could be possibly used to compare the inflation rate with the current time.
 	
@@ -25,6 +26,6 @@
 	With 2 people being involved, time-management was definately the biggest challenge to make sure each part was completed by the respective person so that the next steps were not hindered. With the limited time we had to complete the project, and our scheduling conflicts, it was hard to find a time where we were both available to work on the project simultaneously. Finding data that would interest both of us was the next big task. Creating the statistical model was quite difficult since our data was mostly categorical, it was difficult to find a model that was best suited for the relationship we wanted to explore and describe. 
 	Coordinating and being able to push the updates of the project to the remote repository was challenging to make sure there is no merge conflicts and that all the branches are updated so that we both are able to do our parts on a timely manner.
 
- #If we had more time
+ #Improvements
 
- 	We would have more opportunities to call each other and work on the project simultaneously to make things a bit easier. 
+ 	Find missing data to get a better sense of the inflation. 
