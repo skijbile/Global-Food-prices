@@ -14,9 +14,24 @@
 #Results
 
 	Overview Dashboard- gives us a quick insight into the data set, the countries it covers , how many countries and commodities are available and the types of markets these commodities sell in.
+
+ <div style="display: flex; justify-content: center;">
+    <p align="center">
+        <img src="Data\images\Screenshot 2025-01-08 160513.png" width="400">
+    </p>
+</div>
  
 	
 	Change in Prices Dashboard- this gives us the trend in the prices over the years for a selected commodity and allows us to select the country where the commodity is available. We can see the percentage rise/fall in cost of the price in comparision to the previous year. This could be possibly used to compare the inflation rate with the current time.
+
+  <div style="display: flex; justify-content: center;">
+    <p align="center">
+        <img src="Data\images\Screenshot 2025-01-08 161105.png" width="400">
+    </p>
+</div>
+
+
+ 
 	
 	Market Analysis in Ukraine Dashboard- here we can see the different prices within the different market regions in Ukraine. How the same commodity within the country the price varies, this may be due to multiple factors. We tried to see if there was a pattern in the change in price due to the war situation in the year 2014 but the data is not sufficient to make any such predictions.
 
