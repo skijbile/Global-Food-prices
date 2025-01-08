@@ -31,9 +31,15 @@
 </div>
 
 
- 
-	
-	Market Analysis in Ukraine Dashboard- here we can see the different prices within the different market regions in Ukraine. How the same commodity within the country the price varies, this may be due to multiple factors. We tried to see if there was a pattern in the change in price due to the war situation in the year 2014 but the data is not sufficient to make any such predictions.
+	 Market Analysis in Ukraine Dashboard- here we can see the different prices within the different market regions in Ukraine. How the same commodity within the country the price varies, this may be due to multiple factors. We tried to see if there was a pattern in the change in price due to the war situation in the year 2014 but the data is not sufficient to make any such predictions.
+
+  <div style="display: flex; justify-content: center;">
+    <p align="center">
+        <img src="Data\images\Screenshot 2025-01-08 161152.png" width="400">
+    </p>
+</div>
+
+
 
 
 #Challenges
